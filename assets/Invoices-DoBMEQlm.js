@@ -1,0 +1,1 @@
+import{_ as t,l as o,m as e,t as c,v as n}from"./index-grCFvy2h.js";const a={},l={class:"w-full flex flex-col max-w-[600px]"},i={class:"flex flex-none mb-[30px]"},_={class:"text-[24px] font-medium"};function r(s,f){return n(),o("div",l,[e("div",i,[e("div",_,c(s.$t("menu.invoices")),1)])])}const x=t(a,[["render",r]]);export{x as default};
